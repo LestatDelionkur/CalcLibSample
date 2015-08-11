@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLib", "CalcLib\CalcLib.csproj", "{19E6073A-C752-49EE-9052-B386BB7E9D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLibTests", "CalcLibTests\CalcLibTests.csproj", "{0BB7EA70-43A2-41D0-9787-8D957B0AA1D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E6073A-C752-49EE-9052-B386BB7E9D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E6073A-C752-49EE-9052-B386BB7E9D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E6073A-C752-49EE-9052-B386BB7E9D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E6073A-C752-49EE-9052-B386BB7E9D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB7EA70-43A2-41D0-9787-8D957B0AA1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB7EA70-43A2-41D0-9787-8D957B0AA1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB7EA70-43A2-41D0-9787-8D957B0AA1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB7EA70-43A2-41D0-9787-8D957B0AA1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://lestat.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CalcLib\\CalcLib.csproj
+		SccProjectName1 = CalcLib/CalcLib
+		SccLocalPath1 = CalcLib
+		SccProjectUniqueName2 = CalcLibTests\\CalcLibTests.csproj
+		SccProjectName2 = CalcLib/CalcLibTests
+		SccLocalPath2 = CalcLibTests
+	EndGlobalSection
+EndGlobal
